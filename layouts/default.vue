@@ -17,7 +17,7 @@ export default {
                     src: "https://use.fontawesome.com/releases/v5.6.3/js/all.js",
                     integrity: "sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1",
                     crossorigin: "anonymous",
-                }
+                },
             ],
             title: "Quentin Durantay",
         };
@@ -25,12 +25,12 @@ export default {
 };
 </script>
 
-
 <style lang="scss">
-@import "~bulma/sass/utilities/_all";
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
 
-@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800');
-$family-sans-serif: "Nunito", sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+$family-sans-serif: "Ubuntu", sans-serif;
 
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
