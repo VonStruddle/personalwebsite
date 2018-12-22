@@ -11,10 +11,11 @@ export default {
                     rel: "stylesheet",
                     href: "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css",
                 },
+            ],
+            script: [
                 {
-                    ref: "stylesheet",
-                    href: "https://use.fontawesome.com/releases/v5.6.3/css/all.css",
-                    integrity: "sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/",
+                    src: "https://use.fontawesome.com/releases/v5.6.3/js/all.js",
+                    integrity: "sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1",
                     crossorigin: "anonymous",
                 }
             ],
