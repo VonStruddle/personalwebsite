@@ -34,4 +34,9 @@ $family-sans-serif: "Ubuntu", sans-serif;
 
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
 </style>
