@@ -27,7 +27,6 @@ export default {
 
 <style lang="scss">
 @import '~bulma/sass/utilities/initial-variables';
-@import '~bulma/sass/utilities/functions';
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 $family-sans-serif: "Ubuntu", sans-serif;
