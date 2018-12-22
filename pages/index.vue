@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="columns">
                     <div class="column">
-                        <h2 class="title is-4">👋 I'm Quentin,</h2>
+                        <h2 class="title is-4">👋 I'm Quentin!</h2>
                         <h1 class="title is-3">
                             I'm a Product Manager and Growth Engineer
                             <a
