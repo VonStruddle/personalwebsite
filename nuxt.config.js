@@ -55,6 +55,7 @@ module.exports = {
             materialDesignIcons: false,
 
         }],
+        "nuxt-purgecss",
     ],
 
     /*
