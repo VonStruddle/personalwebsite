@@ -1,5 +1,5 @@
 <template>
-    <section class="hero is-dark is-fullheight">
+    <section class="hero is-dark is-fullheight has-text-centered-touch">
         <div class="hero-body">
             <div class="container">
                 <div class="columns">
@@ -106,6 +106,10 @@ a {
 }
 .is-flex {
     align-items: center;
+
+    @media screen and (max-width: 1024px) {
+        justify-content: space-around;
+    }
 
     div {
         &:not(:first-child) {
