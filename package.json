@@ -14,12 +14,14 @@
         "precommit": "npm run lint"
     },
     "dependencies": {
+        "@nuxtjs/axios": "^5.3.6",
         "cross-env": "^5.2.0",
         "husky": "^1.2.1",
         "node-sass": "^4.11.0",
         "nuxt": "^2.0.0",
         "nuxt-buefy": "^0.2.1",
         "nuxt-purgecss": "^0.2.0",
+        "nuxtent": "^1.4.1",
         "sass-loader": "^7.1.0"
     },
     "devDependencies": {
