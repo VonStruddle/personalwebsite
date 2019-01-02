@@ -14,9 +14,7 @@ module.exports = {
         ],
     ],
     api: {
-        baseURL:
-        process.env.NODE_ENV === "production"
-            ? "https://quentindurantay.me"
-            : "http://localhost:3000",
+        baseURL: "http://localhost:3000",
+        browserBaseURL: "https://quentindurantay.me"
     },
 };

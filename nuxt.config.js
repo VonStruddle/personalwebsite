@@ -56,7 +56,7 @@ module.exports = {
 
         }],
         "nuxt-purgecss",
-        "nuxtent",
+        "nuxtdown",
     ],
 
     /*
