@@ -53,7 +53,6 @@ module.exports = {
         ["nuxt-buefy", {
             css: false,
             materialDesignIcons: false,
-
         }],
         "nuxt-purgecss",
         "@dinamomx/nuxtent",
