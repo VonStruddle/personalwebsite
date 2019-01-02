@@ -57,7 +57,6 @@ module.exports = {
         }],
         "nuxt-purgecss",
         "nuxtent",
-        "@nuxtjs/axios",
     ],
 
     /*

@@ -9,9 +9,9 @@
 export default {
     async asyncData({ app, route }) {
         return {
-            post: await app.$content('/blog').get(route.path),
+            post: await app.$content("/blog").get(route.path),
         };
-    }
-}
+    },
+};
 </script>
 

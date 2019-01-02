@@ -4,7 +4,7 @@
             v-for="post in posts"
             :key="post.title"
         >
-            post.title
+            {{ post.title }}
         </h2>
     </div>
 </template>
