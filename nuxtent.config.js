@@ -15,6 +15,6 @@ module.exports = {
     ],
     api: {
         baseURL: "http://localhost:3000",
-        browserBaseURL: "https://quentindurantay.me"
+        browserBaseURL: "https://quentindurantay.me",
     },
 };
